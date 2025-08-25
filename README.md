@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Jaiswal</h1>
 
-- 🎓 First-year B.Tech student at ABES Engineering College
+- 🎓 Second year B.Tech student at ABES Engineering College
 
 
 - 🔭 Open to collaborating on interesting projects
